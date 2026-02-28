@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+env/
+venv/
+.env
+*.db
+.gemini/
+.agents/
+_agents/
+.cursor/
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
+# Data files that might be too large (optional, but keep for this small set)
+# data/raw/
+# artifacts/
